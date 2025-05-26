@@ -2,7 +2,7 @@
   "name": "タスク記録アプリ",
   "short_name": "タスク記録",
   "description": "作業タスクを記録するローカルアプリ",
-  "start_url": "/",
+  "start_url": "/20250526_test/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
